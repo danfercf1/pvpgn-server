@@ -46,6 +46,10 @@ make
 make install
 ````
 
+### Ubuntu 14.04 Install
+
+The script easy_install.sh can be use to install all the dependencies and build the project, it has been modified for Ubuntu 14.04.
+
 Full instructions: [Русский](http://harpywar.com/?a=articles&b=2&c=1&d=74) | [English](http://harpywar.com/?a=articles&b=2&c=1&d=74&lang=en)
 
 ## License
